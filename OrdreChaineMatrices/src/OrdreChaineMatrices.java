@@ -1,7 +1,7 @@
 
 public class OrdreChaineMatrices {
 
-	/**
+	/**Code Test
 	 * @param args
 	 */
 	public static void main(String[] args) {
